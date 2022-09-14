@@ -19,10 +19,6 @@ def operation():
 
             serverSocket.sendto(modifiedMessage, clientAddress)
 
-
-
-
-
 def main():
     print('The server is ready to receive')
     operation()

@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-
 from socket import *
-
 
 BUFFER_SIZE = 2048
 SERVER_IP = 'localhost'
@@ -18,6 +16,5 @@ def main():
 
         print("Answer from server: ",modifiedMessage.decode())
 
-    
 if __name__ == "__main__":
     main()

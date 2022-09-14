@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-
 import socket
-import time
 
 SERVER_IP = "localhost"
 SERVER_PORT = 2003
