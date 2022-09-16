@@ -6,7 +6,7 @@ from random import choice
 
 users = {}
 BUFFER_SIZE = 2048
-SERVER_IP = '35.208.146.138'
+SERVER_IP = '35.208.169.105'
 SERVER_PORT = 2108
 
 def hash(text:str):
