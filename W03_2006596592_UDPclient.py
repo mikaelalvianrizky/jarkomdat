@@ -2,7 +2,7 @@
 from socket import *
 
 BUFFER_SIZE = 2048
-SERVER_IP = 'localhost'
+SERVER_IP = '35.208.146.138'
 SERVER_PORT = 2108
 
 def main():

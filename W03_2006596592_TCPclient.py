@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import socket
 
-SERVER_IP = "localhost"
+SERVER_IP = "35.208.146.138"
 SERVER_PORT = 2003
 BUFFER_SIZE = 1024
 
